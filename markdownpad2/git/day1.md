@@ -13,7 +13,7 @@
 > 从缓存区删除
 ## git commit -m "日志消息" 文件名 ##
 > 提交到本地库
-## git reflog ##
+## git reflog/log##
 > 查看历史纪录
 ## git reset --hard 版本号 ##
 > 版本穿梭
