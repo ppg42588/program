@@ -1,0 +1,18 @@
+﻿  01-for循环.c
+  02-猜数字游戏.c
+  03-模拟电子表.c
+D:\program\c\day04\day04\02-猜数字游戏.c(10,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  04-打印99乘法表.c
+  05-continue.c
+  06-goto.c
+  07-数组.c
+D:\program\c\day04\day04\07-数组.c(48,23): warning C4018: “<”: 有符号/无符号不匹配
+  08-数组逆序.c
+D:\program\c\day04\day04\08-数组逆序.c(28,23): warning C4018: “<”: 有符号/无符号不匹配
+  09-冒泡排序.c
+D:\program\c\day04\day04\09-冒泡排序.c(16,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\program\c\day04\day04\09-冒泡排序.c(23,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\program\c\day04\day04\09-冒泡排序.c(37,23): warning C4018: “<”: 有符号/无符号不匹配
+  test.c
+  正在生成代码...
+  day04.vcxproj -> D:\program\c\day04\Debug\day04.exe
