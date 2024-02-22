@@ -1,3 +1,5 @@
-﻿  main.c
-D:\program\c\验证码生成模拟\main.c(31,2): warning C4013: “system”未定义；假设外部返回 int
+﻿  getstr.c
+  main.c
+  正在生成代码...
+D:\program\c\验证码生成模拟\main.c(9,2): warning C4013: “system”未定义；假设外部返回 int
   验证码生成模拟.vcxproj -> D:\program\c\验证码生成模拟\x64\Debug\验证码生成模拟.exe
